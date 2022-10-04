@@ -1,0 +1,694 @@
+[
+	{
+		"code": "a_mess_of_things",
+		"name": "Un auténtico estropicio"
+	},
+	{
+		"code": "absorbing_man",
+		"name": "Hombre absorbente"
+	},
+	{
+		"code": "anachronauts",
+		"name": "Anacronautas"
+	},
+	{
+		"code": "ant",
+		"name": "Hombre Hormiga"
+	},
+	{
+		"code": "ant_nemesis",
+		"name": "Archienemigo del Hombre Hormiga"
+	},
+	{
+		"code": "armadillo",
+		"name": "Armadillo"
+	},
+	{
+		"code": "armies_of_titan",
+		"name": "Ejércitos de Titán"
+	},
+	{
+		"code": "bad_publicity",
+		"name": "Mala publicidad"
+	},
+	{
+		"code": "badoon_headhunter",
+		"name": "Cazador de Cabezas Badoon"
+	},
+	{
+		"code": "band_of_badoon",
+		"name": "Banda Badoon"
+	},
+	{
+		"code": "beasty_boys",
+		"name": "Malas bestias"
+	},
+	{
+		"code": "black_order",
+		"name": "Orden Negra"
+	},
+	{
+		"code": "black_panther",
+		"name": "Pantera Negra"
+	},
+	{
+		"code": "black_panther_nemesis",
+		"name": "Archienemigo de Pantera Negra"
+	},
+	{
+		"code": "black_widow",
+		"name": "Viuda Negra"
+	},
+	{
+		"code": "black_widow_nemesis",
+		"name": "Archienemigo de Viuda Negra"
+	},
+	{
+		"code": "bomb_scare",
+		"name": "Amenaza de bomba"
+	},
+	{
+		"code": "brotherhood_of_badoon",
+		"name": "Hermandad de los Badoon"
+	},
+	{
+		"code": "brothers_grimm",
+		"name": "Hermanos Grimm"
+	},
+	{
+		"code": "bulldozer",
+		"name": "Bulldozer"
+	},
+	{
+		"code": "captain_america",
+		"name": "Capitán América"
+	},
+	{
+		"code": "captain_america_nemesis",
+		"name": "Archienemigo de Capitán América"
+	},
+	{
+		"code": "captain_marvel",
+		"name": "Capitana Marvel"
+	},
+	{
+		"code": "captain_marvel_nemesis",
+		"name": "Archienemigo de Capitana Marvel"
+	},
+	{
+		"code": "challenge",
+		"name": "Desafío"
+	},
+	{
+		"code": "children_of_thanos",
+		"name": "Hijos de Thanos"
+	},
+	{
+		"code": "city_in_chaos",
+		"name": "Caos en la ciudad"
+	},
+	{
+		"code": "collector1",
+		"name": "El Coleccionista 1"
+	},
+	{
+		"code": "collector2",
+		"name": "El Coleccionista 2"
+	},
+	{
+		"code": "community_service",
+		"name": "Servicios comunitarios"
+	},
+	{
+		"code": "crossbones",
+		"name": "Calavera"
+	},
+	{
+		"code": "crossfire_crew",
+		"name": "Banda de Fuego Cruzado"
+	},
+	{
+		"code": "doctor_strange",
+		"name": "Doctor Extraño"
+	},
+	{
+		"code": "doctor_strange_nemesis",
+		"name": "Archienemigo de Doctor Extraño"
+	},
+	{
+		"code": "down_to_earth",
+		"name": "Con los pies en la tierra"
+	},
+	{
+		"code": "drax",
+		"name": "Drax"
+	},
+	{
+		"code": "drax_nemesis",
+		"name": "Archienemigo de Drax"
+	},
+	{
+		"code": "ebony_maw",
+		"name": "Fauces Negras"
+	},
+	{
+		"code": "enchantress",
+		"name": "Encantadora"
+	},
+	{
+		"code": "exp_kang",
+		"name": "Kang Experto"
+	},
+	{
+		"code": "expcamp",
+		"name": "Campaña en Experto"
+	},
+	{
+		"code": "exper_weapon",
+		"name": "Armas Experimentales"
+	},
+	{
+		"code": "expert",
+		"name": "Experto"
+	},
+	{
+		"code": "expert_ii",
+		"name": "Experto II"
+	},
+	{
+		"code": "frost_giants",
+		"name": "Gigantes de hielo"
+	},
+	{
+		"code": "galactic_artifacts",
+		"name": "Artefactos galácticos"
+	},
+	{
+		"code": "gam",
+		"name": "Gamora"
+	},
+	{
+		"code": "gam_nemesis",
+		"name": "Archienemigo de Gamora"
+	},
+	{
+		"code": "ghost_spider",
+		"name": "Ghost-Spider"
+	},
+	{
+		"code": "ghost_spider_nemesis",
+		"name": "Archienemigo de Ghost-Spider"
+	},
+	{
+		"code": "goblin_gear",
+		"name": "Artilugios de duende"
+	},
+	{
+		"code": "goblin_gimmicks",
+		"name": "Trucos de duende"
+	},
+	{
+		"code": "groot",
+		"name": "Groot"
+	},
+	{
+		"code": "groot_nemesis",
+		"name": "Archienemigo de Groot"
+	},
+	{
+		"code": "guerrilla_tactics",
+		"name": "Tácticas de guerrilla"
+	},
+	{
+		"code": "hawkeye",
+		"name": "Ojo de Halcón"
+	},
+	{
+		"code": "hawkeye_nemesis",
+		"name": "Archienemigo de Ojo de Halcón"
+	},
+	{
+		"code": "hela",
+		"name": "Hela"
+	},
+	{
+		"code": "hulk",
+		"name": "Hulk"
+	},
+	{
+		"code": "hulk_nemesis",
+		"name": "Archienemigo de Hulk"
+	},
+	{
+		"code": "hydra_assault",
+		"name": "Asalto de Hydra"
+	},
+	{
+		"code": "hydra_camp",
+		"name": "Campaña de Hydra"
+	},
+	{
+		"code": "hydra_patrol",
+		"name": "Patrulla de Hydra"
+	},
+	{
+		"code": "infinity_gauntlet",
+		"name": "Guantelete del Infinito"
+	},
+	{
+		"code": "inheritors",
+		"name": "Los herederos"
+	},
+	{
+		"code": "invocation",
+		"name": "Invocación"
+	},
+	{
+		"code": "iron_man",
+		"name": "Iron Man"
+	},
+	{
+		"code": "iron_man_nemesis",
+		"name": "Archienemigo de Iron Man"
+	},
+	{
+		"code": "ironheart",
+		"name": "Ironheart"
+	},
+	{
+		"code": "ironheart_nemesis",
+		"name": "Archienemigo de Ironheart"
+	},
+	{
+		"code": "ironspider_sinister",
+		"name": "Los Seis Siniestros de Iron Spider"
+	},
+	{
+		"code": "kang",
+		"name": "Kang"
+	},
+	{
+		"code": "klaw",
+		"name": "Klaw"
+	},
+	{
+		"code": "kree_fanatic",
+		"name": "Fanático kree"
+	},
+	{
+		"code": "kree_militant",
+		"name": "Militantes Kree"
+	},
+	{
+		"code": "legions_of_hel",
+		"name": "Legiones de Hel"
+	},
+	{
+		"code": "legions_of_hydra",
+		"name": "Legiones de Hydra"
+	},
+	{
+		"code": "loki",
+		"name": "Loki"
+	},
+	{
+		"code": "masters_of_evil",
+		"name": "Señores del Mal"
+	},
+	{
+		"code": "menagerie_medley",
+		"name": "Bestiario galáctico"
+	},
+	{
+		"code": "mister_hyde",
+		"name": "Mister Hyde"
+	},
+	{
+		"code": "mot",
+		"name": "Amo del tiempo"
+	},
+	{
+		"code": "ms_marvel",
+		"name": "Ms. Marvel"
+	},
+	{
+		"code": "ms_marvel_nemesis",
+		"name": "Archienemigo de Ms. Marvel"
+	},
+	{
+		"code": "mts_campaign",
+		"name": "Campaña de La sombra del titán loco"
+	},
+	{
+		"code": "mutagen_formula",
+		"name": "La fórmula mutagénica"
+	},
+	{
+		"code": "mysterio",
+		"name": "Mysterio"
+	},
+	{
+		"code": "nebu",
+		"name": "Nébula"
+	},
+	{
+		"code": "nebu_nemesis",
+		"name": "Archienemigo de Nébula"
+	},
+	{
+		"code": "nebula",
+		"name": "Nébula"
+	},
+	{
+		"code": "nebula_hero",
+		"name": "Nébula"
+	},
+	{
+		"code": "nebula_nemesis",
+		"name": "Archienemigo de Nébula"
+	},
+	{
+		"code": "nova",
+		"name": "Nova"
+	},
+	{
+		"code": "nova_nemesis",
+		"name": "Archienemigo de Nova"
+	},
+	{
+		"code": "osborn_tech",
+		"name": "Tecnología de Osborn"
+	},
+	{
+		"code": "personal_nightmare",
+		"name": "Pesadilla personal"
+	},
+	{
+		"code": "piledriver",
+		"name": "Martinete"
+	},
+	{
+		"code": "power_drain",
+		"name": "Alta tensión"
+	},
+	{
+		"code": "power_stone",
+		"name": "Gema del Poder"
+	},
+	{
+		"code": "qsv",
+		"name": "Mercurio"
+	},
+	{
+		"code": "qsv_nemesis",
+		"name": "Archienemigo de Mercurio"
+	},
+	{
+		"code": "ransacked_armory",
+		"name": "Arsenal desvalijado"
+	},
+	{
+		"code": "red_skull",
+		"name": "Cráneo Rojo"
+	},
+	{
+		"code": "rhino",
+		"name": "Rino"
+	},
+	{
+		"code": "risky_business",
+		"name": "Negocios arriesgados"
+	},
+	{
+		"code": "rocket",
+		"name": "Mapache Cohete"
+	},
+	{
+		"code": "rocket_nemesis",
+		"name": "Archienemigo de Mapache Cohete"
+	},
+	{
+		"code": "ronan",
+		"name": "Ronan"
+	},
+	{
+		"code": "running_interference",
+		"name": "Impedimentos"
+	},
+	{
+		"code": "sandman",
+		"name": "Hombre de arena"
+	},
+	{
+		"code": "scw",
+		"name": "Bruja Escarlata"
+	},
+	{
+		"code": "scw_nemesis",
+		"name": "Archienemigo de la Bruja Escarlata"
+	},
+	{
+		"code": "she_hulk",
+		"name": "Hulka"
+	},
+	{
+		"code": "she_hulk_nemesis",
+		"name": "Archienemigo de Hulka"
+	},
+	{
+		"code": "shield_tech",
+		"name": "Tecnología de S.H.I.E.L.D."
+	},
+	{
+		"code": "ship_command",
+		"name": "Nave Espacial"
+	},
+	{
+		"code": "sinister_assault",
+		"name": "Ataque siniestro"
+	},
+	{
+		"code": "sinister_six",
+		"name": "Los Seis Siniestros"
+	},
+	{
+		"code": "sinister_syndicate",
+		"name": "Sindicato Siniestro"
+	},
+	{
+		"code": "snitches_get_stitches",
+		"name": "No hay traición sin castigo"
+	},
+	{
+		"code": "space_pirates",
+		"name": "Piratas espaciales"
+	},
+	{
+		"code": "spdr",
+		"name": "SP//dr"
+	},
+	{
+		"code": "spdr_nemesis",
+		"name": "Archienemigo de SP//dr"
+	},
+	{
+		"code": "spectrum",
+		"name": "Spectrum"
+	},
+	{
+		"code": "spectrum_nemesis",
+		"name": "Archienemigo de Spectrum"
+	},
+	{
+		"code": "spider_man",
+		"name": "Spiderman"
+	},
+	{
+		"code": "spider_man_morales",
+		"name": "Spiderman (Miles Morales)"
+	},
+	{
+		"code": "spider_man_morales_nemesis",
+		"name": "Archienemigo de Spiderman (Miles Morales)"
+	},
+	{
+		"code": "spider_man_nemesis",
+		"name": "Archienemigo de Spiderman"
+	},
+	{
+		"code": "spider_woman",
+		"name": "SpiderWoman"
+	},
+	{
+		"code": "spider_woman_nemesis",
+		"name": "Archienemigo de Spiderwoman"
+	},
+	{
+		"code": "spiderham",
+		"name": "Spiderham"
+	},
+	{
+		"code": "spiderham_nemesis",
+		"name": "Archienemigo de Spiderham"
+	},
+	{
+		"code": "standard",
+		"name": "Normal"
+	},
+	{
+		"code": "standard_ii",
+		"name": "Normal II"
+	},
+	{
+		"code": "state_of_emergency",
+		"name": "Estado de emergencia"
+	},
+	{
+		"code": "stld",
+		"name": "Starlord"
+	},
+	{
+		"code": "stld_nemesis",
+		"name": "Archienemigo de Starlord"
+	},
+	{
+		"code": "streets_of_mayhem",
+		"name": "Caos en las calles"
+	},
+	{
+		"code": "symbiotic_strength",
+		"name": "Fuerza simbiótica"
+	},
+	{
+		"code": "taskmaster",
+		"name": "Supervisor"
+	},
+	{
+		"code": "temporal",
+		"name": "Temporal"
+	},
+	{
+		"code": "thanos",
+		"name": "Thanos"
+	},
+	{
+		"code": "the_doomsday_chair",
+		"name": "La silla del Juicio Final"
+	},
+	{
+		"code": "the_hood",
+		"name": "El Encapuchado"
+	},
+	{
+		"code": "the_market",
+		"name": "Mercado"
+	},
+	{
+		"code": "thor",
+		"name": "Thor"
+	},
+	{
+		"code": "thor_nemesis",
+		"name": "Archienemigo de Thor"
+	},
+	{
+		"code": "thunderball",
+		"name": "Bola de Trueno"
+	},
+	{
+		"code": "tower_defense",
+		"name": "Defender la torre"
+	},
+	{
+		"code": "ultron",
+		"name": "Ultrón"
+	},
+	{
+		"code": "under_attack",
+		"name": "Civiles en peligro"
+	},
+	{
+		"code": "valk",
+		"name": "Valkiria"
+	},
+	{
+		"code": "valk_nemesis",
+		"name": "Archienemigo de Valkiria"
+	},
+	{
+		"code": "venom",
+		"name": "Veneno"
+	},
+	{
+		"code": "venom_goblin",
+		"name": "Duende Veneno"
+	},
+	{
+		"code": "vision",
+		"name": "La Visión"
+	},
+	{
+		"code": "vision_nemesis",
+		"name": "Archienemigo de La Visión"
+	},
+	{
+		"code": "vnm",
+		"name": "Veneno"
+	},
+	{
+		"code": "vnm_nemesis",
+		"name": "Archienemigo de Veneno"
+	},
+	{
+		"code": "warlock",
+		"name": "Adam Warlock"
+	},
+	{
+		"code": "warlock_nemesis",
+		"name": "Archienemigo de Adam Warlock"
+	},
+	{
+		"code": "warm",
+		"name": "Máquina de Guerra"
+	},
+	{
+		"code": "warm_nemesis",
+		"name": "Archienemigo de Máquina de Guerra"
+	},
+	{
+		"code": "weap_master",
+		"name": "Maestro de armas"
+	},
+	{
+		"code": "whispers_of_paranoia",
+		"name": "Susurros paranoides"
+	},
+	{
+		"code": "wrecker",
+		"name": "Destructor"
+	},
+	{
+		"code": "wrecking_crew",
+		"name": "Brigada de demolición"
+	},
+	{
+		"code": "wrecking_crew_modular",
+		"name": "Brigada de demolición"
+	},
+	{
+		"code": "wsp",
+		"name": "Avispa"
+	},
+	{
+		"code": "wsp_nemesis",
+		"name": "Archienemigo de la Avispa"
+	},
+	{
+		"code": "zola",
+		"name": "Zola"
+	},
+	{
+		"code": "zzzax",
+		"name": "Zzzax"
+	}
+]
